@@ -1,5 +1,6 @@
 # Contributing Guidelines
 
+
 Thank you for your interest in contributing to this project! 
 
 ## Suggesting Changes
@@ -18,3 +19,4 @@ All contributions will go through a code review process. Be prepared to address 
 
 Thank you for contributing to our project!
 
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
